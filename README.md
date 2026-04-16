@@ -37,6 +37,21 @@ It allows users to create and manage support tickets, while admin users can upda
 ### View data Page
 ![Login](images/view%20all%20data.png)
 
+## 🚀 Demo Flow
+
+1. User login
+2. Create ticket
+3. View tickets
+4. Admin manage tickets
+5. Update or delete ticket
+
+## 💡 Key Highlights
+
+- Implemented full CRUD system
+- Designed role-based access control (Admin / User)
+- Built authentication system using password hashing
+- Developed UI with Bootstrap for better usability
+
 ## Project Structure
 ```text
 ticket-system/
@@ -45,4 +60,5 @@ ticket-system/
 ├── config/
 ├── images/
 └── other/
+
 
