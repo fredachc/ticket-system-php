@@ -1,5 +1,8 @@
 # Ticket Management System (PHP + MySQL)
 
+
+[oai_citation:5‡GitHub]([https://github.com/fredachc/ticket-system-php](https://github.com/fredachc/ticket-system-php/blob/main/images/homepage_admin.png))
+
 ## Overview
 This is a simple ticket management system built using PHP and MySQL.
 
@@ -38,6 +41,4 @@ ticket-system/
 ├── config/
 ├── images/
 └── other/
-
-[oai_citation:5‡GitHub](https://github.com/fredachc/ticket-system-php)
 
