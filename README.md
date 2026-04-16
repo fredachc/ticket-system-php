@@ -29,7 +29,10 @@ It allows users to create and manage support tickets, while admin users can upda
 
 ## Screenshots
 ### Lgoin Page
-![Login](image/login.png)
+![Login](images/login.png)
+
+### Admin Page
+![Login](images/manage_admin.png)
 
 ## Project Structure
 ```text
