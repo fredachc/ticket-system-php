@@ -39,8 +39,5 @@ ticket-system/
 ├── images/
 └── other/
 
- [oai_citation:5‡GitHub](https://github.com/fredachc/ticket-system-php)
+[oai_citation:5‡GitHub](https://github.com/fredachc/ticket-system-php)
 
-[oai_citation:6‡GitHub](https://github.com/fredachc/ticket-system-php)
-
-[oai_citation:7‡GitHub](https://github.com/fredachc/ticket-system-php)
