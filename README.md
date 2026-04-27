@@ -37,7 +37,7 @@ It allows users to create and manage support tickets, while admin users can upda
 ### View data Page
 ![Login](images/view%20all%20data.png)
 
-## 🚀 Demo Flow
+## Demo Flow
 
 1. User login
 2. Create ticket
@@ -45,7 +45,7 @@ It allows users to create and manage support tickets, while admin users can upda
 4. Admin manage tickets
 5. Update or delete ticket
 
-## 💡 Key Highlights
+## Key Highlights
 
 - Implemented full CRUD system
 - Designed role-based access control (Admin / User)
